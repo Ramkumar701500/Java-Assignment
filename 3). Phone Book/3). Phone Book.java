@@ -1,7 +1,5 @@
-/* 
-Q).Problem Statement Link: https://www.hackerrank.com/challenges/phone-book/problem
-*/
 
+Q).Problem Statement Link: https://www.hackerrank.com/challenges/phone-book/problem
 
 import java.util.*;
 import java.io.*;
