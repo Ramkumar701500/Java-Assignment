@@ -1,6 +1,4 @@
-/* 
 Q).Problem Statement Link: https://www.hackerrank.com/challenges/bon-appetit/problem
-*/
 
 import java.io.*;
 import java.util.*;
