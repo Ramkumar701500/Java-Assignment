@@ -1,7 +1,4 @@
-/* 
 Q).Problem Statement Link: https://www.hackerrank.com/challenges/java-anagrams/problem
-*/
-
 
 import java.util.Scanner;
 
