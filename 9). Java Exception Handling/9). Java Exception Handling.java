@@ -1,7 +1,4 @@
-/* 
 Q).Problem Statement Link: https://www.hackerrank.com/challenges/java-exception-handling-try-catch/problem
-*/
-
 
 import java.io.*;
 import java.util.*;
