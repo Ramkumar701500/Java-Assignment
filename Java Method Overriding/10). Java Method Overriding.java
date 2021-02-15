@@ -1,7 +1,4 @@
-/* 
 Q).Problem Statement Link: https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem
-*/
-
 
 import java.util.*;
 import java.io.*;
