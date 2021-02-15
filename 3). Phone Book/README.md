@@ -1,4 +1,4 @@
-#. Output:
+# Output:
 
 ![Output 1](https://user-images.githubusercontent.com/41969044/107932121-338a8300-6fa3-11eb-8967-2a1496711078.png)
 
