@@ -1,7 +1,4 @@
-/* 
 Q).Problem Statement Link: https://www.hackerrank.com/challenges/electronics-shop/problem
-*/
-
 
 import java.io.*;
 import java.util.*;
